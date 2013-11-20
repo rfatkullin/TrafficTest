@@ -1,0 +1,268 @@
+Connecting to server at ws://traffic-server.cloudapp.net:3000. Send messages with size = 1024 bytes.
+Mon Nov 18 2013 19:58:27 GMT+0000 (UTC)[INF] Connected to server.
+Mon Nov 18 2013 19:58:27 GMT+0000 (UTC)[INF] [STAT] Average speed = 0 Kb/sec. Msg size = 0
+Mon Nov 18 2013 19:58:27 GMT+0000 (UTC)[INF] New receive message size = 1
+Mon Nov 18 2013 19:58:31 GMT+0000 (UTC)[INF] Speed : 0.0263671875 Kb/sec
+Mon Nov 18 2013 19:58:36 GMT+0000 (UTC)[INF] Speed : 0.0296875 Kb/sec
+Mon Nov 18 2013 19:58:41 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 19:58:46 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 19:58:51 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 19:58:56 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 19:59:01 GMT+0000 (UTC)[INF] Speed : 0.0294921875 Kb/sec
+Mon Nov 18 2013 19:59:06 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 19:59:11 GMT+0000 (UTC)[INF] Speed : 0.0296875 Kb/sec
+Mon Nov 18 2013 19:59:16 GMT+0000 (UTC)[INF] Speed : 0.0302734375 Kb/sec
+Mon Nov 18 2013 19:59:21 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 19:59:26 GMT+0000 (UTC)[INF] Speed : 0.0302734375 Kb/sec
+Mon Nov 18 2013 19:59:31 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 19:59:36 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 19:59:41 GMT+0000 (UTC)[INF] Speed : 0.0302734375 Kb/sec
+Mon Nov 18 2013 19:59:46 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 19:59:51 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 19:59:56 GMT+0000 (UTC)[INF] Speed : 0.030859375 Kb/sec
+Mon Nov 18 2013 20:00:01 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:06 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:11 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 20:00:16 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:21 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:26 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:31 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 20:00:36 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 20:00:41 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:46 GMT+0000 (UTC)[INF] Speed : 0.03046875 Kb/sec
+Mon Nov 18 2013 20:00:51 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:00:56 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:01:01 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:01:06 GMT+0000 (UTC)[INF] Speed : 0.0306640625 Kb/sec
+Mon Nov 18 2013 20:01:11 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:01:16 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:01:21 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:01:26 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:01:31 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:01:36 GMT+0000 (UTC)[INF] Speed : 0.0287109375 Kb/sec
+Mon Nov 18 2013 20:01:41 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:01:46 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:01:52 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:01:57 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:02:02 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:02:07 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:02:12 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:02:17 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:02:22 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:02:27 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:02:32 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:02:37 GMT+0000 (UTC)[INF] Speed : 0.0287109375 Kb/sec
+Mon Nov 18 2013 20:02:42 GMT+0000 (UTC)[INF] Speed : 0.0294921875 Kb/sec
+Mon Nov 18 2013 20:02:47 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:02:52 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:02:57 GMT+0000 (UTC)[INF] Speed : 0.0291015625 Kb/sec
+Mon Nov 18 2013 20:03:02 GMT+0000 (UTC)[INF] Speed : 0.0287109375 Kb/sec
+Mon Nov 18 2013 20:03:07 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 20:03:12 GMT+0000 (UTC)[INF] Speed : 0.02890625 Kb/sec
+Mon Nov 18 2013 20:03:17 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 20:03:22 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:03:27 GMT+0000 (UTC)[INF] Speed : 0.0296875 Kb/sec
+Mon Nov 18 2013 20:03:32 GMT+0000 (UTC)[INF] Speed : 0.029296875 Kb/sec
+Mon Nov 18 2013 20:03:37 GMT+0000 (UTC)[INF] Speed : 0.0294921875 Kb/sec
+Mon Nov 18 2013 20:03:42 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 20:03:47 GMT+0000 (UTC)[INF] Speed : 0.0296875 Kb/sec
+Mon Nov 18 2013 20:03:52 GMT+0000 (UTC)[INF] Speed : 0.0302734375 Kb/sec
+Mon Nov 18 2013 20:03:57 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 20:04:02 GMT+0000 (UTC)[INF] Speed : 0.030078125 Kb/sec
+Mon Nov 18 2013 20:04:07 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 20:04:12 GMT+0000 (UTC)[INF] Speed : 0.0298828125 Kb/sec
+Mon Nov 18 2013 20:04:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.029729959239130428 Kb/sec. Msg size = 1
+Mon Nov 18 2013 20:04:13 GMT+0000 (UTC)[INF] New receive message size = 2
+Mon Nov 18 2013 20:04:17 GMT+0000 (UTC)[INF] Speed : 0.053125 Kb/sec
+Mon Nov 18 2013 20:04:22 GMT+0000 (UTC)[INF] Speed : 0.060546875 Kb/sec
+Mon Nov 18 2013 20:04:27 GMT+0000 (UTC)[INF] Speed : 0.059765625 Kb/sec
+Mon Nov 18 2013 20:04:32 GMT+0000 (UTC)[INF] Speed : 0.060546875 Kb/sec
+Mon Nov 18 2013 20:04:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.058496093750000006 Kb/sec. Msg size = 2
+Mon Nov 18 2013 20:04:33 GMT+0000 (UTC)[INF] New receive message size = 4
+Mon Nov 18 2013 20:04:37 GMT+0000 (UTC)[INF] Speed : 0.106640625 Kb/sec
+Mon Nov 18 2013 20:04:42 GMT+0000 (UTC)[INF] Speed : 0.1203125 Kb/sec
+Mon Nov 18 2013 20:04:47 GMT+0000 (UTC)[INF] Speed : 0.11875 Kb/sec
+Mon Nov 18 2013 20:04:52 GMT+0000 (UTC)[INF] Speed : 0.12109375 Kb/sec
+Mon Nov 18 2013 20:04:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.11669921875 Kb/sec. Msg size = 4
+Mon Nov 18 2013 20:04:53 GMT+0000 (UTC)[INF] New receive message size = 8
+Mon Nov 18 2013 20:04:57 GMT+0000 (UTC)[INF] Speed : 0.2125 Kb/sec
+Mon Nov 18 2013 20:05:02 GMT+0000 (UTC)[INF] Speed : 0.2375 Kb/sec
+Mon Nov 18 2013 20:05:07 GMT+0000 (UTC)[INF] Speed : 0.240625 Kb/sec
+Mon Nov 18 2013 20:05:12 GMT+0000 (UTC)[INF] Speed : 0.24375 Kb/sec
+Mon Nov 18 2013 20:05:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.23359375 Kb/sec. Msg size = 8
+Mon Nov 18 2013 20:05:13 GMT+0000 (UTC)[INF] New receive message size = 16
+Mon Nov 18 2013 20:05:17 GMT+0000 (UTC)[INF] Speed : 0.4109375 Kb/sec
+Mon Nov 18 2013 20:05:22 GMT+0000 (UTC)[INF] Speed : 0.484375 Kb/sec
+Mon Nov 18 2013 20:05:27 GMT+0000 (UTC)[INF] Speed : 0.490625 Kb/sec
+Mon Nov 18 2013 20:05:32 GMT+0000 (UTC)[INF] Speed : 0.4875 Kb/sec
+Mon Nov 18 2013 20:05:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.46835937499999997 Kb/sec. Msg size = 16
+Mon Nov 18 2013 20:05:33 GMT+0000 (UTC)[INF] New receive message size = 32
+Mon Nov 18 2013 20:05:37 GMT+0000 (UTC)[INF] Speed : 0.871875 Kb/sec
+Mon Nov 18 2013 20:05:42 GMT+0000 (UTC)[INF] Speed : 0.975 Kb/sec
+Mon Nov 18 2013 20:05:47 GMT+0000 (UTC)[INF] Speed : 0.975 Kb/sec
+Mon Nov 18 2013 20:05:52 GMT+0000 (UTC)[INF] Speed : 0.98125 Kb/sec
+Mon Nov 18 2013 20:05:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 0.9507812499999999 Kb/sec. Msg size = 32
+Mon Nov 18 2013 20:05:53 GMT+0000 (UTC)[INF] New receive message size = 64
+Mon Nov 18 2013 20:05:57 GMT+0000 (UTC)[INF] Speed : 1.7375 Kb/sec
+Mon Nov 18 2013 20:06:02 GMT+0000 (UTC)[INF] Speed : 1.95 Kb/sec
+Mon Nov 18 2013 20:06:07 GMT+0000 (UTC)[INF] Speed : 1.95 Kb/sec
+Mon Nov 18 2013 20:06:12 GMT+0000 (UTC)[INF] Speed : 1.9625 Kb/sec
+Mon Nov 18 2013 20:06:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 1.9 Kb/sec. Msg size = 64
+Mon Nov 18 2013 20:06:13 GMT+0000 (UTC)[INF] New receive message size = 128
+Mon Nov 18 2013 20:06:17 GMT+0000 (UTC)[INF] Speed : 3.4625 Kb/sec
+Mon Nov 18 2013 20:06:22 GMT+0000 (UTC)[INF] Speed : 3.925 Kb/sec
+Mon Nov 18 2013 20:06:27 GMT+0000 (UTC)[INF] Speed : 3.775 Kb/sec
+Mon Nov 18 2013 20:06:32 GMT+0000 (UTC)[INF] Speed : 3.7 Kb/sec
+Mon Nov 18 2013 20:06:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 3.715625 Kb/sec. Msg size = 128
+Mon Nov 18 2013 20:06:33 GMT+0000 (UTC)[INF] New receive message size = 256
+Mon Nov 18 2013 20:06:37 GMT+0000 (UTC)[INF] Speed : 6.6 Kb/sec
+Mon Nov 18 2013 20:06:42 GMT+0000 (UTC)[INF] Speed : 7.4 Kb/sec
+Mon Nov 18 2013 20:06:47 GMT+0000 (UTC)[INF] Speed : 7.35 Kb/sec
+Mon Nov 18 2013 20:06:52 GMT+0000 (UTC)[INF] Speed : 7.45 Kb/sec
+Mon Nov 18 2013 20:06:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 7.2 Kb/sec. Msg size = 256
+Mon Nov 18 2013 20:06:53 GMT+0000 (UTC)[INF] New receive message size = 512
+Mon Nov 18 2013 20:06:57 GMT+0000 (UTC)[INF] Speed : 13.25 Kb/sec
+Mon Nov 18 2013 20:07:02 GMT+0000 (UTC)[INF] Speed : 14.8 Kb/sec
+Mon Nov 18 2013 20:07:07 GMT+0000 (UTC)[INF] Speed : 14.7 Kb/sec
+Mon Nov 18 2013 20:07:12 GMT+0000 (UTC)[INF] Speed : 14.8 Kb/sec
+Mon Nov 18 2013 20:07:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 14.3875 Kb/sec. Msg size = 512
+Mon Nov 18 2013 20:07:13 GMT+0000 (UTC)[INF] New receive message size = 612
+Mon Nov 18 2013 20:07:17 GMT+0000 (UTC)[INF] Speed : 16.965625 Kb/sec
+Mon Nov 18 2013 20:07:22 GMT+0000 (UTC)[INF] Speed : 17.690625 Kb/sec
+Mon Nov 18 2013 20:07:27 GMT+0000 (UTC)[INF] Speed : 17.57109375 Kb/sec
+Mon Nov 18 2013 20:07:32 GMT+0000 (UTC)[INF] Speed : 17.81015625 Kb/sec
+Mon Nov 18 2013 20:07:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 17.509375 Kb/sec. Msg size = 612
+Mon Nov 18 2013 20:07:33 GMT+0000 (UTC)[INF] New receive message size = 712
+Mon Nov 18 2013 20:07:37 GMT+0000 (UTC)[INF] Speed : 19.85625 Kb/sec
+Mon Nov 18 2013 20:07:42 GMT+0000 (UTC)[INF] Speed : 20.58125 Kb/sec
+Mon Nov 18 2013 20:07:47 GMT+0000 (UTC)[INF] Speed : 20.4421875 Kb/sec
+Mon Nov 18 2013 20:07:52 GMT+0000 (UTC)[INF] Speed : 20.4421875 Kb/sec
+Mon Nov 18 2013 20:07:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 20.33046875 Kb/sec. Msg size = 712
+Mon Nov 18 2013 20:07:53 GMT+0000 (UTC)[INF] New receive message size = 812
+Mon Nov 18 2013 20:07:57 GMT+0000 (UTC)[INF] Speed : 22.8859375 Kb/sec
+Mon Nov 18 2013 20:08:02 GMT+0000 (UTC)[INF] Speed : 23.471875 Kb/sec
+Mon Nov 18 2013 20:08:07 GMT+0000 (UTC)[INF] Speed : 23.31328125 Kb/sec
+Mon Nov 18 2013 20:08:12 GMT+0000 (UTC)[INF] Speed : 23.63046875 Kb/sec
+Mon Nov 18 2013 20:08:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 23.325390624999997 Kb/sec. Msg size = 812
+Mon Nov 18 2013 20:08:13 GMT+0000 (UTC)[INF] New receive message size = 912
+Mon Nov 18 2013 20:08:17 GMT+0000 (UTC)[INF] Speed : 25.5984375 Kb/sec
+Mon Nov 18 2013 20:08:22 GMT+0000 (UTC)[INF] Speed : 26.184375 Kb/sec
+Mon Nov 18 2013 20:08:27 GMT+0000 (UTC)[INF] Speed : 26.3625 Kb/sec
+Mon Nov 18 2013 20:08:32 GMT+0000 (UTC)[INF] Speed : 26.184375 Kb/sec
+Mon Nov 18 2013 20:08:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 26.082421875 Kb/sec. Msg size = 912
+Mon Nov 18 2013 20:08:33 GMT+0000 (UTC)[INF] New receive message size = 1012
+Mon Nov 18 2013 20:08:37 GMT+0000 (UTC)[INF] Speed : 28.39375 Kb/sec
+Mon Nov 18 2013 20:08:42 GMT+0000 (UTC)[INF] Speed : 29.253125 Kb/sec
+Mon Nov 18 2013 20:08:47 GMT+0000 (UTC)[INF] Speed : 29.05546875 Kb/sec
+Mon Nov 18 2013 20:08:52 GMT+0000 (UTC)[INF] Speed : 29.05546875 Kb/sec
+Mon Nov 18 2013 20:08:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 28.939453125 Kb/sec. Msg size = 1012
+Mon Nov 18 2013 20:08:53 GMT+0000 (UTC)[INF] New receive message size = 1112
+Mon Nov 18 2013 20:08:57 GMT+0000 (UTC)[INF] Speed : 31.5578125 Kb/sec
+Mon Nov 18 2013 20:09:02 GMT+0000 (UTC)[INF] Speed : 31.9265625 Kb/sec
+Mon Nov 18 2013 20:09:07 GMT+0000 (UTC)[INF] Speed : 32.14375 Kb/sec
+Mon Nov 18 2013 20:09:12 GMT+0000 (UTC)[INF] Speed : 32.14375 Kb/sec
+Mon Nov 18 2013 20:09:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 31.94296875 Kb/sec. Msg size = 1112
+Mon Nov 18 2013 20:09:13 GMT+0000 (UTC)[INF] New receive message size = 1212
+Mon Nov 18 2013 20:09:17 GMT+0000 (UTC)[INF] Speed : 34.46796875 Kb/sec
+Mon Nov 18 2013 20:09:22 GMT+0000 (UTC)[INF] Speed : 35.034375 Kb/sec
+Mon Nov 18 2013 20:09:27 GMT+0000 (UTC)[INF] Speed : 34.79765625 Kb/sec
+Mon Nov 18 2013 20:09:32 GMT+0000 (UTC)[INF] Speed : 35.034375 Kb/sec
+Mon Nov 18 2013 20:09:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 34.83359375 Kb/sec. Msg size = 1212
+Mon Nov 18 2013 20:09:33 GMT+0000 (UTC)[INF] New receive message size = 1312
+Mon Nov 18 2013 20:09:37 GMT+0000 (UTC)[INF] Speed : 37.121875 Kb/sec
+Mon Nov 18 2013 20:09:42 GMT+0000 (UTC)[INF] Speed : 38.18125 Kb/sec
+Mon Nov 18 2013 20:09:47 GMT+0000 (UTC)[INF] Speed : 38.4375 Kb/sec
+Mon Nov 18 2013 20:09:52 GMT+0000 (UTC)[INF] Speed : 37.925 Kb/sec
+Mon Nov 18 2013 20:09:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 37.916406249999994 Kb/sec. Msg size = 1312
+Mon Nov 18 2013 20:09:53 GMT+0000 (UTC)[INF] New receive message size = 1412
+Mon Nov 18 2013 20:09:57 GMT+0000 (UTC)[INF] Speed : 40.0734375 Kb/sec
+Mon Nov 18 2013 20:10:02 GMT+0000 (UTC)[INF] Speed : 40.53984375 Kb/sec
+Mon Nov 18 2013 20:10:07 GMT+0000 (UTC)[INF] Speed : 40.815625 Kb/sec
+Mon Nov 18 2013 20:10:12 GMT+0000 (UTC)[INF] Speed : 41.64296875 Kb/sec
+Mon Nov 18 2013 20:10:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 40.76796875 Kb/sec. Msg size = 1412
+Mon Nov 18 2013 20:10:13 GMT+0000 (UTC)[INF] New receive message size = 1512
+Mon Nov 18 2013 20:10:17 GMT+0000 (UTC)[INF] Speed : 43.13984375 Kb/sec
+Mon Nov 18 2013 20:10:22 GMT+0000 (UTC)[INF] Speed : 43.4109375 Kb/sec
+Mon Nov 18 2013 20:10:27 GMT+0000 (UTC)[INF] Speed : 43.70625 Kb/sec
+Mon Nov 18 2013 20:10:32 GMT+0000 (UTC)[INF] Speed : 43.70625 Kb/sec
+Mon Nov 18 2013 20:10:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 43.490820312500006 Kb/sec. Msg size = 1512
+Mon Nov 18 2013 20:10:33 GMT+0000 (UTC)[INF] New receive message size = 1612
+Mon Nov 18 2013 20:10:37 GMT+0000 (UTC)[INF] Speed : 46.24765625 Kb/sec
+Mon Nov 18 2013 20:10:42 GMT+0000 (UTC)[INF] Speed : 47.2265625 Kb/sec
+Mon Nov 18 2013 20:10:47 GMT+0000 (UTC)[INF] Speed : 47.2265625 Kb/sec
+Mon Nov 18 2013 20:10:52 GMT+0000 (UTC)[INF] Speed : 46.596875 Kb/sec
+Mon Nov 18 2013 20:10:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 46.8244140625 Kb/sec. Msg size = 1612
+Mon Nov 18 2013 20:10:53 GMT+0000 (UTC)[INF] New receive message size = 1712
+Mon Nov 18 2013 20:10:57 GMT+0000 (UTC)[INF] Speed : 49.58984375 Kb/sec
+Mon Nov 18 2013 20:11:02 GMT+0000 (UTC)[INF] Speed : 50.15625 Kb/sec
+Mon Nov 18 2013 20:11:07 GMT+0000 (UTC)[INF] Speed : 50.490625 Kb/sec
+Mon Nov 18 2013 20:11:12 GMT+0000 (UTC)[INF] Speed : 50.15625 Kb/sec
+Mon Nov 18 2013 20:11:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 50.0982421875 Kb/sec. Msg size = 1712
+Mon Nov 18 2013 20:11:13 GMT+0000 (UTC)[INF] New receive message size = 1812
+Mon Nov 18 2013 20:11:17 GMT+0000 (UTC)[INF] Speed : 52.18515625 Kb/sec
+Mon Nov 18 2013 20:11:22 GMT+0000 (UTC)[INF] Speed : 52.73203125 Kb/sec
+Mon Nov 18 2013 20:11:27 GMT+0000 (UTC)[INF] Speed : 53.0859375 Kb/sec
+Mon Nov 18 2013 20:11:32 GMT+0000 (UTC)[INF] Speed : 52.378125 Kb/sec
+Mon Nov 18 2013 20:11:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 52.595312500000006 Kb/sec. Msg size = 1812
+Mon Nov 18 2013 20:11:33 GMT+0000 (UTC)[INF] New receive message size = 1912
+Mon Nov 18 2013 20:11:37 GMT+0000 (UTC)[INF] Speed : 53.975 Kb/sec
+Mon Nov 18 2013 20:11:42 GMT+0000 (UTC)[INF] Speed : 54.521875 Kb/sec
+Mon Nov 18 2013 20:11:47 GMT+0000 (UTC)[INF] Speed : 54.1484375 Kb/sec
+Mon Nov 18 2013 20:11:52 GMT+0000 (UTC)[INF] Speed : 52.6546875 Kb/sec
+Mon Nov 18 2013 20:11:53 GMT+0000 (UTC)[INF] [STAT] Average speed = 53.824999999999996 Kb/sec. Msg size = 1912
+Mon Nov 18 2013 20:11:53 GMT+0000 (UTC)[INF] New receive message size = 2012
+Mon Nov 18 2013 20:11:57 GMT+0000 (UTC)[INF] Speed : 55.68671875 Kb/sec
+Mon Nov 18 2013 20:12:02 GMT+0000 (UTC)[INF] Speed : 55.8015625 Kb/sec
+Mon Nov 18 2013 20:12:07 GMT+0000 (UTC)[INF] Speed : 55.40859375 Kb/sec
+Mon Nov 18 2013 20:12:12 GMT+0000 (UTC)[INF] Speed : 55.8015625 Kb/sec
+Mon Nov 18 2013 20:12:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 55.674609375 Kb/sec. Msg size = 2012
+Mon Nov 18 2013 20:12:13 GMT+0000 (UTC)[INF] New receive message size = 2112
+Mon Nov 18 2013 20:12:17 GMT+0000 (UTC)[INF] Speed : 58.0671875 Kb/sec
+Mon Nov 18 2013 20:12:22 GMT+0000 (UTC)[INF] Speed : 56.5125 Kb/sec
+Mon Nov 18 2013 20:12:27 GMT+0000 (UTC)[INF] Speed : 59.4 Kb/sec
+Mon Nov 18 2013 20:12:32 GMT+0000 (UTC)[INF] Speed : 58.1625 Kb/sec
+Mon Nov 18 2013 20:12:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 58.035546875 Kb/sec. Msg size = 2112
+Mon Nov 18 2013 20:12:33 GMT+0000 (UTC)[INF] New receive message size = 4224
+Mon Nov 18 2013 20:12:37 GMT+0000 (UTC)[INF] Speed : 108.9 Kb/sec
+Mon Nov 18 2013 20:12:42 GMT+0000 (UTC)[INF] Speed : 122.925 Kb/sec
+Mon Nov 18 2013 20:12:47 GMT+0000 (UTC)[INF] Speed : 122.1 Kb/sec
+Mon Nov 18 2013 20:12:52 GMT+0000 (UTC)[INF] Speed : 122.1 Kb/sec
+Mon Nov 18 2013 20:12:54 GMT+0000 (UTC)[INF] [STAT] Average speed = 119.00625 Kb/sec. Msg size = 4224
+Mon Nov 18 2013 20:12:54 GMT+0000 (UTC)[INF] New receive message size = 8448
+Mon Nov 18 2013 20:12:57 GMT+0000 (UTC)[INF] Speed : 192.225 Kb/sec
+Mon Nov 18 2013 20:13:02 GMT+0000 (UTC)[INF] Speed : 239.25 Kb/sec
+Mon Nov 18 2013 20:13:07 GMT+0000 (UTC)[INF] Speed : 239.25 Kb/sec
+Mon Nov 18 2013 20:13:12 GMT+0000 (UTC)[INF] Speed : 240.9 Kb/sec
+Mon Nov 18 2013 20:13:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 227.90625 Kb/sec. Msg size = 8448
+Mon Nov 18 2013 20:13:13 GMT+0000 (UTC)[INF] New receive message size = 16896
+Mon Nov 18 2013 20:13:17 GMT+0000 (UTC)[INF] Speed : 363 Kb/sec
+Mon Nov 18 2013 20:13:22 GMT+0000 (UTC)[INF] Speed : 508.2 Kb/sec
+Mon Nov 18 2013 20:13:27 GMT+0000 (UTC)[INF] Speed : 462 Kb/sec
+Mon Nov 18 2013 20:13:32 GMT+0000 (UTC)[INF] Speed : 465.3 Kb/sec
+Mon Nov 18 2013 20:13:33 GMT+0000 (UTC)[INF] [STAT] Average speed = 449.625 Kb/sec. Msg size = 16896
+Mon Nov 18 2013 20:13:33 GMT+0000 (UTC)[INF] New receive message size = 33792
+Mon Nov 18 2013 20:13:37 GMT+0000 (UTC)[INF] Speed : 676.5 Kb/sec
+Mon Nov 18 2013 20:13:42 GMT+0000 (UTC)[INF] Speed : 976.8 Kb/sec
+Mon Nov 18 2013 20:13:47 GMT+0000 (UTC)[INF] Speed : 864.6 Kb/sec
+Mon Nov 18 2013 20:13:52 GMT+0000 (UTC)[INF] Speed : 844.8 Kb/sec
+Mon Nov 18 2013 20:13:57 GMT+0000 (UTC)[INF] Speed : 844.8 Kb/sec
+Mon Nov 18 2013 20:13:58 GMT+0000 (UTC)[INF] [STAT] Average speed = 841.5 Kb/sec. Msg size = 33792
+Mon Nov 18 2013 20:13:58 GMT+0000 (UTC)[INF] New receive message size = 67584
+Mon Nov 18 2013 20:14:02 GMT+0000 (UTC)[INF] Speed : 1240.8 Kb/sec
+Mon Nov 18 2013 20:14:07 GMT+0000 (UTC)[INF] Speed : 1623.6 Kb/sec
+Mon Nov 18 2013 20:14:12 GMT+0000 (UTC)[INF] Speed : 1452 Kb/sec
+Mon Nov 18 2013 20:14:13 GMT+0000 (UTC)[INF] [STAT] Average speed = 1438.8 Kb/sec. Msg size = 67584
+Mon Nov 18 2013 20:14:13 GMT+0000 (UTC)[INF] New receive message size = 135168
+Mon Nov 18 2013 20:14:17 GMT+0000 (UTC)[INF] Speed : 2059.2 Kb/sec
+Mon Nov 18 2013 20:14:22 GMT+0000 (UTC)[INF] Speed : 2666.4 Kb/sec
+Mon Nov 18 2013 20:14:27 GMT+0000 (UTC)[INF] Speed : 2138.4 Kb/sec
+Mon Nov 18 2013 20:14:32 GMT+0000 (UTC)[INF] Speed : 1874.4 Kb/sec
+Mon Nov 18 2013 20:14:37 GMT+0000 (UTC)[INF] Speed : 1293.6 Kb/sec
+Mon Nov 18 2013 20:14:37 GMT+0000 (UTC)[INF] [STAT] Average speed = 2006.4 Kb/sec. Msg size = 135168
+Mon Nov 18 2013 20:14:37 GMT+0000 (UTC)[INF] New receive message size = 270336
+Mon Nov 18 2013 20:14:42 GMT+0000 (UTC)[INF] Speed : 1399.2 Kb/sec
+Mon Nov 18 2013 20:14:47 GMT+0000 (UTC)[INF] Speed : 1900.8 Kb/sec
+Mon Nov 18 2013 20:14:52 GMT+0000 (UTC)[INF] Speed : 1795.2 Kb/sec
+Mon Nov 18 2013 20:14:57 GMT+0000 (UTC)[INF] Speed : 1478.4 Kb/sec
+Mon Nov 18 2013 20:15:02 GMT+0000 (UTC)[INF] Speed : 686.4 Kb/sec
+Mon Nov 18 2013 20:15:03 GMT+0000 (UTC)[INF] Close socket. Exit.
