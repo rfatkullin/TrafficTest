@@ -10,16 +10,39 @@ function OnOpen()
 
 function MessageProcess( a_msg )
 {
-    if ( g_client.m_prevMsgLen != a_msg.length  )
+    try
     {
-        Logger.InfoLog( '[STAT] Average speed = ' + g_client.m_averSpeed / g_client.m_msgCnt + ' Kb/sec. Msg size = ' + g_client.m_prevMsgLen );
-        Logger.InfoLog( 'New receive message size = ' + a_msg.length );
-        g_client.m_prevMsgLen = a_msg.length;
-        g_client.m_msgCnt    = 0;
-        g_client.m_averSpeed = 0;
-    }
+        cmdMsg = JSON.parse( a_msg );
 
-    g_client.m_recvMsgSize += g_client.m_prevMsgLen;
+        var intv = ( ( new Date() ).getTime() - g_client.m_startTime ) / 1000.0;
+
+        if ( cmdMsg.m_cmd === 'change_msg_size' )
+        {
+            Logger.InfoLog( '[SPEED_CHANGE] Average speed = ' + g_client.m_recvMsgSize / 1024.0 / intv + ' Kb/sec. Msg size = ' + g_client.m_msgLen );
+            g_client.m_msgLen = cmdMsg.m_size;
+
+        }
+        else if ( cmdMsg.m_cmd === 'change_send_interval' )
+        {
+            Logger.InfoLog( '[INT_CHANGE] Average speed = ' + g_client.m_recvMsgSize / 1024.0 / intv + ' Kb/sec. Interval = ' + g_client.m_intv + '. Msg size = ' + cmdMsg.m_size );
+            g_client.m_intv = cmdMsg.m_interval;
+        }
+        else
+        {
+            Logger.InfoLog( 'Bad command!' );
+        }
+
+        g_client.m_recvMsgSize  = 0;
+    }
+    catch ( excp )
+    {
+        //Not command msg...
+
+        if ( g_client.m_recvMsgSize === 0 )
+            g_client.m_startTime = ( new Date() ).getTime();
+
+        g_client.m_recvMsgSize += a_msg.length;
+    }
 }
 
 function OnError()
@@ -30,6 +53,9 @@ function OnError()
 
 function OnClose()
 {
+    var intv = ( ( new Date() ).getTime() - g_client.m_startTime ) / 1000.0;
+    Logger.InfoLog( '[INT_CHANGE] Average speed = ' + g_client.m_recvMsgSize / 1024.0 / intv + ' Kb/sec. Interval = ' + g_client.m_intv + '. Msg size = ' + cmdMsg.m_size );
+
     Logger.InfoLog( 'Close socket. Exit.' );
     process.exit(0);
 }
@@ -42,18 +68,6 @@ function SendMsg()
     g_client.send( g_sendMsg, { binary: true } );
 
     //Logger.InfoLog( 'Send message. Size = ' + SEND_MSG_SIZE );
-}
-
-function CalculateSpeed()
-{
-    var speed = ( 1000 * g_client.m_recvMsgSize ) / SPEED_RECALC_INTERVAL / 1024.0;
-
-    g_client.m_averSpeed += speed;
-    ++g_client.m_msgCnt;
-
-    Logger.InfoLog( 'Speed : ' + speed + ' Kb/sec' );
-
-    g_client.m_recvMsgSize = 0;
 }
 
 function ProcessCommandLineArgs( a_args )
@@ -79,7 +93,7 @@ function ProcessCommandLineArgs( a_args )
                     break;
 
                 default :
-                    ErrorInfo( 'Unknown arg!' );
+                    Logger.ErrLog( 'Unknown arg!' );
                     break;
             }
         }
@@ -95,17 +109,15 @@ function InitClient()
     g_client.on('close', OnClose );
     g_client.on('message', MessageProcess );
     g_client.m_connected = false;
-    g_client.m_prevMsgLen   = 0;
+    g_client.m_msgLen   = 0;
     g_client.m_recvMsgSize  = 0;
-    g_client.m_averSpeed    = 0;
-    g_client.m_msgCnt       = 1;
+    g_client.m_startTime  = ( new Date() ).getTime();
 
     console.log( 'Connecting to server at ' + addr + '. Send messages with size = ' + SEND_MSG_SIZE + ' bytes.' );
 }
 
 function Start()
 {
-    SPEED_RECALC_INTERVAL       = 5000;
     SEND_MSG_SIZE               = 1024;
     MSG_SEND_INTERVAL           = 20; //in milliseconds
     WEB_SOCKET_SERVER_PORT      = 3000;
@@ -116,7 +128,6 @@ function Start()
     InitClient();
 
     setInterval( SendMsg, MSG_SEND_INTERVAL );
-    setInterval( CalculateSpeed, SPEED_RECALC_INTERVAL );
 }
 
 Start();

@@ -1,0 +1,40 @@
+Connecting to server at ws://traffic-server.cloudapp.net:3000. Send messages with size = 1024 bytes.
+Thu Nov 21 2013 17:15:59 GMT+0000 (UTC)[INF] Connected to server.
+Thu Nov 21 2013 17:16:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0 Kb/sec. Msg size = 0
+Thu Nov 21 2013 17:16:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0 Kb/sec. Msg size = 0
+Thu Nov 21 2013 17:16:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.029632360312792407 Kb/sec. Msg size = 1
+Thu Nov 21 2013 17:17:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.06014845685211221 Kb/sec. Msg size = 2
+Thu Nov 21 2013 17:17:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.1207391115273968 Kb/sec. Msg size = 4
+Thu Nov 21 2013 17:17:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.24169367232393427 Kb/sec. Msg size = 8
+Thu Nov 21 2013 17:18:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.4833550477717645 Kb/sec. Msg size = 16
+Thu Nov 21 2013 17:18:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.9060391475716482 Kb/sec. Msg size = 32
+Thu Nov 21 2013 17:18:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 1.8218894163268033 Kb/sec. Msg size = 64
+Thu Nov 21 2013 17:19:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 3.6428046253592674 Kb/sec. Msg size = 128
+Thu Nov 21 2013 17:19:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 7.266956231206148 Kb/sec. Msg size = 256
+Thu Nov 21 2013 17:19:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 14.802191927292167 Kb/sec. Msg size = 512
+Thu Nov 21 2013 17:20:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 17.69088057931311 Kb/sec. Msg size = 612
+Thu Nov 21 2013 17:20:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 20.778492278379463 Kb/sec. Msg size = 712
+Thu Nov 21 2013 17:20:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 23.35532082748948 Kb/sec. Msg size = 812
+Thu Nov 21 2013 17:21:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 26.855109647656615 Kb/sec. Msg size = 912
+Thu Nov 21 2013 17:21:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 29.785808857925687 Kb/sec. Msg size = 1012
+Thu Nov 21 2013 17:21:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 33.087498329546975 Kb/sec. Msg size = 1112
+Thu Nov 21 2013 17:22:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 35.98150305672479 Kb/sec. Msg size = 1212
+Thu Nov 21 2013 17:22:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 38.95027393599251 Kb/sec. Msg size = 1312
+Thu Nov 21 2013 17:22:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 42.65323314738108 Kb/sec. Msg size = 1412
+Thu Nov 21 2013 17:23:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 45.686209402566156 Kb/sec. Msg size = 1512
+Thu Nov 21 2013 17:23:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 47.89498704446673 Kb/sec. Msg size = 1612
+Thu Nov 21 2013 17:23:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 48.4828110383536 Kb/sec. Msg size = 1712
+Thu Nov 21 2013 17:24:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 50.98729567789811 Kb/sec. Msg size = 1812
+Thu Nov 21 2013 17:24:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 54.18651788699432 Kb/sec. Msg size = 1912
+Thu Nov 21 2013 17:24:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 57.37249223239343 Kb/sec. Msg size = 2012
+Thu Nov 21 2013 17:25:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 60.78744235781595 Kb/sec. Msg size = 2112
+Thu Nov 21 2013 17:25:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 120.48826950070182 Kb/sec. Msg size = 4224
+Thu Nov 21 2013 17:25:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 244.85294117647058 Kb/sec. Msg size = 8448
+Thu Nov 21 2013 17:26:09 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 493.152071245446 Kb/sec. Msg size = 16896
+Thu Nov 21 2013 17:26:29 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 982.8178694158076 Kb/sec. Msg size = 33792
+Thu Nov 21 2013 17:26:49 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 1978.3627342888644 Kb/sec. Msg size = 67584
+Thu Nov 21 2013 17:27:15 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 2777.3003407912283 Kb/sec. Msg size = 135168
+Thu Nov 21 2013 17:27:39 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 4447.747329307943 Kb/sec. Msg size = 270336
+Thu Nov 21 2013 17:28:15 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 5166.510911989446 Kb/sec. Msg size = 540672
+Thu Nov 21 2013 17:28:46 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 4299.7576345128455 Kb/sec. Interval = undefined. Msg size = 1081344
+Thu Nov 21 2013 17:28:46 GMT+0000 (UTC)[INF] Close socket. Exit.

@@ -1,0 +1,36 @@
+Connecting to server at ws://traffic-server.cloudapp.net:3000. Send messages with size = 1024 bytes.
+Thu Nov 21 2013 17:45:45 GMT+0000 (UTC)[INF] Connected to server.
+Thu Nov 21 2013 17:45:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0 Kb/sec. Msg size = 0
+Thu Nov 21 2013 17:46:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0 Kb/sec. Msg size = 0
+Thu Nov 21 2013 17:46:39 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.028419332109851217 Kb/sec. Msg size = 1
+Thu Nov 21 2013 17:46:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.058257498665421056 Kb/sec. Msg size = 2
+Thu Nov 21 2013 17:47:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.11538108126169473 Kb/sec. Msg size = 4
+Thu Nov 21 2013 17:47:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.237043039497427 Kb/sec. Msg size = 8
+Thu Nov 21 2013 17:47:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.47715502839959906 Kb/sec. Msg size = 16
+Thu Nov 21 2013 17:48:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 0.9291316618535048 Kb/sec. Msg size = 32
+Thu Nov 21 2013 17:48:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 1.9003942796043838 Kb/sec. Msg size = 64
+Thu Nov 21 2013 17:48:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 3.86425852974561 Kb/sec. Msg size = 128
+Thu Nov 21 2013 17:49:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 7.659007659007659 Kb/sec. Msg size = 256
+Thu Nov 21 2013 17:49:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 15.532099672656825 Kb/sec. Msg size = 512
+Thu Nov 21 2013 17:49:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 18.446426488234117 Kb/sec. Msg size = 612
+Thu Nov 21 2013 17:50:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 20.31531418851311 Kb/sec. Msg size = 712
+Thu Nov 21 2013 17:50:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 23.37249156195696 Kb/sec. Msg size = 812
+Thu Nov 21 2013 17:50:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 26.390206751897722 Kb/sec. Msg size = 912
+Thu Nov 21 2013 17:51:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 29.259412801577227 Kb/sec. Msg size = 1012
+Thu Nov 21 2013 17:51:39 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 31.44674871477842 Kb/sec. Msg size = 1112
+Thu Nov 21 2013 17:51:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 35.34177730460922 Kb/sec. Msg size = 1212
+Thu Nov 21 2013 17:52:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 37.84499465383587 Kb/sec. Msg size = 1312
+Thu Nov 21 2013 17:52:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 41.55330206802085 Kb/sec. Msg size = 1412
+Thu Nov 21 2013 17:52:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 44.523432288192126 Kb/sec. Msg size = 1512
+Thu Nov 21 2013 17:53:18 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 47.258279466084616 Kb/sec. Msg size = 1612
+Thu Nov 21 2013 17:53:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 50.953442814271426 Kb/sec. Msg size = 1712
+Thu Nov 21 2013 17:53:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 53.58678127267929 Kb/sec. Msg size = 1812
+Thu Nov 21 2013 17:54:20 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 52.36283060260187 Kb/sec. Msg size = 1912
+Thu Nov 21 2013 17:54:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 60.29209700451648 Kb/sec. Msg size = 2012
+Thu Nov 21 2013 17:54:58 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 63.63530118872713 Kb/sec. Msg size = 2112
+Thu Nov 21 2013 17:55:20 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 111.17227408842699 Kb/sec. Msg size = 4224
+Thu Nov 21 2013 17:55:38 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 239.40224658999733 Kb/sec. Msg size = 8448
+Thu Nov 21 2013 17:56:15 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 226.32028064852565 Kb/sec. Msg size = 16896
+Thu Nov 21 2013 17:57:23 GMT+0000 (UTC)[INF] [SPEED_CHANGE] Average speed = 212.5619638457657 Kb/sec. Msg size = 33792
+Thu Nov 21 2013 17:58:34 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 233.07718386258333 Kb/sec. Interval = undefined. Msg size = 67584
+Thu Nov 21 2013 17:58:34 GMT+0000 (UTC)[INF] Close socket. Exit.

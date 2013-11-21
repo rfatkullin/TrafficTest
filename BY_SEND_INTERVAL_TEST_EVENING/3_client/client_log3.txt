@@ -1,0 +1,13 @@
+Connecting to server at ws://traffic-server.cloudapp.net:3000. Send messages with size = 1024 bytes.
+Thu Nov 21 2013 18:59:22 GMT+0000 (UTC)[INF] Connected to server.
+Thu Nov 21 2013 18:59:25 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 0 Kb/sec. Interval = undefined. Msg size = 270336
+Thu Nov 21 2013 18:59:45 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 295.0191570881226 Kb/sec. Interval = 1000. Msg size = 270336
+Thu Nov 21 2013 19:00:05 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 567.1951400207438 Kb/sec. Interval = 500. Msg size = 270336
+Thu Nov 21 2013 19:00:25 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 1079.096450340624 Kb/sec. Interval = 250. Msg size = 270336
+Thu Nov 21 2013 19:00:45 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 2112.9055309418322 Kb/sec. Interval = 125. Msg size = 270336
+Thu Nov 21 2013 19:01:05 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 3959.533073929961 Kb/sec. Interval = 62.5. Msg size = 270336
+Thu Nov 21 2013 19:01:30 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 5365.2871621621625 Kb/sec. Interval = 31.25. Msg size = 270336
+Thu Nov 21 2013 19:01:54 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 5803.888912020652 Kb/sec. Interval = 21.25. Msg size = 270336
+Thu Nov 21 2013 19:02:35 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 5371.499812990899 Kb/sec. Interval = 11.25. Msg size = 270336
+Thu Nov 21 2013 19:04:32 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 1284.9885548473837 Kb/sec. Interval = 1.25. Msg size = 270336
+Thu Nov 21 2013 19:04:32 GMT+0000 (UTC)[INF] Close socket. Exit.

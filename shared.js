@@ -3,7 +3,7 @@ function InfoLog( a_msg )
 	console.log( (new Date()) + '[INF] ' + a_msg );
 }
 
-function ErrLog()
+function ErrLog( a_msg )
 {
 	console.log( (new Date())+ '[ERR] ' + a_msg );
 }

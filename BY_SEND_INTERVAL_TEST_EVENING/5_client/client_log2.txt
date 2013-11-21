@@ -1,0 +1,9 @@
+Connecting to server at ws://traffic-server.cloudapp.net:3000. Send messages with size = 1024 bytes.
+Thu Nov 21 2013 19:14:05 GMT+0000 (UTC)[INF] Connected to server.
+Thu Nov 21 2013 19:14:18 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 0 Kb/sec. Interval = undefined. Msg size = 270336
+Thu Nov 21 2013 19:14:38 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 306.18838538646344 Kb/sec. Interval = 1000. Msg size = 270336
+Thu Nov 21 2013 19:14:59 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 563.4797968646501 Kb/sec. Interval = 500. Msg size = 270336
+Thu Nov 21 2013 19:15:50 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 347.5208424747696 Kb/sec. Interval = 250. Msg size = 270336
+Thu Nov 21 2013 19:17:09 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 370.8146685900843 Kb/sec. Interval = 125. Msg size = 270336
+Thu Nov 21 2013 19:20:40 GMT+0000 (UTC)[INF] [INT_CHANGE] Average speed = 123.72305274419396 Kb/sec. Interval = 62.5. Msg size = 270336
+Thu Nov 21 2013 19:20:40 GMT+0000 (UTC)[INF] Close socket. Exit.

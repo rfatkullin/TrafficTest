@@ -4,17 +4,38 @@ var InitSendMsg = require('./shared').InitSendMsg;
 
 function MessageProcess( a_msg )
 {
-    if ( a_msg[ 0 ] === 133 )
+    try
     {
-        var tmpSize = 0;
+        cmdMsg = JSON.parse( a_msg );
 
-        for ( var i = a_msg[ 1 ] - 1; i >= 2; --i )
-            tmpSize = tmpSize * 10 + a_msg[ i ];
-
-        SEND_MSG_SIZE = tmpSize;
+        if ( cmdMsg.m_cmd === 'change_msg_size' )
+            SEND_MSG_SIZE = cmdMsg.m_size;
+        else if ( cmdMsg.m_cmd === 'change_send_interval' )
+        {
+            MSG_SEND_INTERVAL = cmdMsg.m_interval;
+            SEND_MSG_SIZE     = cmdMsg.m_size;
+            Logger.InfoLog( 'New send interval = ' + MSG_SEND_INTERVAL );
+        }
+        else
+        {
+            Logger.InfoLog( 'Bad command!' );
+            return;
+        }
 
         InitSendMsg();
         Logger.InfoLog( 'New message size = ' + SEND_MSG_SIZE );
+
+        clearInterval( intId );
+
+        //Tell clients that params are changed
+        for ( var id in clients )
+            clients[ id ].send( a_msg );
+
+        setTimeout( function() { intId = setInterval( SendMsg, MSG_SEND_INTERVAL ); }, 5000 );
+    }
+    catch ( excp )
+    {
+        //Not command msg...
     }
 }
 
@@ -93,7 +114,7 @@ function InitServer()
 
 function Start()
 {
-	SEND_MSG_SIZE			= 1;
+	SEND_MSG_SIZE			= 0;
 	MSG_SEND_INTERVAL       = 30; //in milliseconds
 	WEB_SOCKET_SERVER_PORT 	= 3000;
 
@@ -101,7 +122,7 @@ function Start()
 	InitSendMsg();
     InitServer();
 
-    setInterval( SendMsg, MSG_SEND_INTERVAL );
+    intId = setInterval( SendMsg, MSG_SEND_INTERVAL );
 }
 
 Start();
