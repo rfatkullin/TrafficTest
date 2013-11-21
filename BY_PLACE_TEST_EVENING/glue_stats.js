@@ -4,6 +4,7 @@ var stats = {};
 
 for ( var i = 2; i < process.argv.length; ++i )
 {
+	var fileNum = i - 2;
 	var linesArr = fs.readFileSync( process.argv[ i ] ).toString().split( '\n' );
 
 	for ( var j = 0; j < linesArr.length; ++j )
@@ -31,15 +32,33 @@ for ( var i = 2; i < process.argv.length; ++i )
 		if ( msg_size > 0 )
 		{
 			if ( stats[ msg_size ] === undefined )
-				stats[ msg_size ] = Number( speed );
+			{
+				stats[ msg_size ] = [];
+
+				for ( var k = 0; k < fileNum; ++k )
+					stats[ msg_size ].push( 0 );
+
+				stats[ msg_size ].push( Number( speed ) );
+			}
 			else
-				stats[ msg_size ] += Number( speed );
+				stats[ msg_size ].push( Number( speed ) );
 		}
 	}
+
+	for ( var j in stats )
+		if ( stats[ j ].length < fileNum + 1 )
+		{
+			for ( var k = 0; k < ( fileNum + 1 - stats[ j ].length ); ++k )
+				stats[ j ].push( 0 );
+		}
 }
 
-var filesCnt = process.argv.length - 2;
 for ( var i in stats )
 {
-	console.log( i + ' ' + ( stats[ i ] / filesCnt ));
+	var str = i + " ";
+
+	for ( var j = 0; j < stats[ i ].length; ++j )
+		str += stats[ i ][ j ] + " ";
+
+	console.log( str );
 }
